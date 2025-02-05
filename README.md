@@ -51,8 +51,12 @@ Utiliza a função `add_alarm_in_ms()` para acionar LEDs após o pressionamento 
 ---
 
 ## 📂 Fluxo do Projeto
+atividade 1 
 
 ![Untitled Diagram (8)](https://github.com/user-attachments/assets/535c4e8a-5cca-4d35-902f-a63d671d6fb8)
+atividade 2 
+
+![Untitled Diagram (9)](https://github.com/user-attachments/assets/9fe1bad1-b277-4621-a166-4d4943e124e4)
 
 
 ---
